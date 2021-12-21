@@ -1,0 +1,27 @@
+header {
+    background-color: rgb(5, 189, 164);
+}
+
+body {
+    background: url(https://www.eltiempo.com/files/article_main/uploads/2020/06/12/5ee4584b69bd4.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+div {
+    background-color: url(https://t2.salir.ltmcdn.com/es/articles/8/7/5/img_los_mejores_outlets_de_zapatos_en_valencia_1578_600_square.jpg);
+    
+}
+
+.card-header {
+   background-color: rgb(74, 250, 132);
+}
+ 
+.card-body {
+    background: linear-gradient(rgb(69, 248, 138),rgb(70, 196, 255));
+}
+.btn{
+    background-color: rgb(255, 187, 0);
+}
+
